@@ -1,5 +1,5 @@
-import connectMongoDb from "@/libs/mongodb"
-import Topic from "@/models/topic";
+import connectMongoDb from "../libs/mongodb";
+import Topic from "../models/topic";
 import { connect } from "mongoose"
 import { NextResponse } from "next/server";
 

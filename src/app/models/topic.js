@@ -8,7 +8,7 @@ const topicSchema = new Schema(
 
     },
     {
-        timestamps: true
+        timestamps: true 
     }
 )
 
